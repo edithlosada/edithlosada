@@ -2,11 +2,12 @@
 <div align="center" style="margin-bottom: 35px">
 
 <center> 
-  <h3 align="center" style="text-decoration: none; font-size: 40px"><img src="./assets/tulip.png" height="40"  /> &nbsp; Hi , I'm Edith. &nbsp; <img src="./assets/female-technologist.png" width="50"  /> </h3>
+
+  ## <img src="./assets/tulip.png" height="40"  />&nbsp; Hi , I'm Edith. &nbsp; <img src="./assets/female-technologist.png" width="50"  /> 
 
   <div align="center" style="width: 500px; margin-top: 35px">
   
-  <h3 > 🌱 </h3 ><br/>
+  <h3 > 🌱 </h3 >
     I'm passionate about technology and innovation, always looking to challenge myself and learn new things. I enjoy collaborating with others to find new ways to improve life quality and solve community problems.
   </div>
 
@@ -147,13 +148,12 @@
 
 
 <!-- My resume -->
-## <img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" />[My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
+### <img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" height="25" />[ &nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
 
 &nbsp;  
 
 <!-- Portfolio -->
-
-## 💼 [ &nbsp; Portfolio ](https://edithlosada.github.io/)
+### 💼 [ &nbsp; Portfolio ](https://edithlosada.github.io/)
 
   - ### Integra (Management system designed to be used in health sector)
   - ### Videogames (API to search and filter videogames)
