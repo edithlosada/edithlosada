@@ -1,11 +1,8 @@
 
-<h3 align="center" style="text-decoration: none; font-size: 40px">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h3>
-
 <div align="center" style="margin-bottom: 35px">
 
-
-
-  <h2 align="center" style="text-decoration: none">Fullstack Development | Physics Research </h1>
+<center> 
+  <h3 align="center" style="text-decoration: none; font-size: 40px">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h3>
 
   <div align="center" style="width: 500px; margin-top: 35px">
     🌱 <br/>
@@ -14,25 +11,24 @@
 
   <!-- Connect -->
   <div align="center" vertical-align:"middle" style="margin-top: 50px; margin-bottom: 20px;">
- <h3> <img align="center" src="./assets/msg.png" alt="connect" width="28"
+  <h3> <img align="center" src="./assets/msg.png" alt="connect" width="28"
     style="margin-right: 10px; margin-right: 3px" /> &nbsp; Connect with me: 
- <a href="https://linkedin.com/in/www.linkedin.com/in/edithlosada" target="blank">
-  <img align="center" src="./assets/linkedin.png" alt="linkedin" width="28"
+  <a href="https://linkedin.com/in/www.linkedin.com/in/edithlosada" target="blank">
+    <img align="center" src="./assets/linkedin.png" alt="linkedin" width="28"
     style="margin-left: 10px" />
-  </a>
-   <a href="https://discordapp.com/users/778000207664775208" target="blank">
-  <img align="center" src="./assets/discord.png " alt="Edith ƪ(ړײ)ƪ" width="28"
+    </a>
+  <a href="https://discordapp.com/users/778000207664775208" target="blank">
+    <img align="center" src="./assets/discord.png " alt="Edith ƪ(ړײ)ƪ" width="28"
     style="margin-right: 3px" />
   </a>
-     <a href="mailto:edithlosada@gmail.com" target="blank">
-  <img align="center" src="./assets/gmail.png " alt="edithlosada@gmail.com" width="28"
+  <a href="mailto:edithlosada@gmail.com" target="blank">
+    <img align="center" src="./assets/gmail.png " alt="edithlosada@gmail.com" width="28"
     style="margin-right: 3px" />
-  </a></h3>
+  </a>
+  </h3>
+  </div>
+</center>
 </div>
-</div>
-
-
-<hr style="border-top: 0.5px solid #c8c8c8;border-bottom: 0"/>
 
 <!-- My resume -->
 <div style='margin-bottom: 50px'><a href="https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80" target="blank" style="text-decoration: none"><img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" /><h3 style='display: inline;font-size: 20px'>My Resume</h3></a>
