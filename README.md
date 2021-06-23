@@ -1,5 +1,5 @@
 
-<div align="center" style="margin-bottom: 25px">
+<div align="center" style="margin-bottom: 15px">
 
 <center> 
 
@@ -38,11 +38,11 @@
 &nbsp;  
 
 <!-- Languages and Tools -->
-<h2 style="margin-top:20px">🛠️  &nbsp; Languages and Tools  </h2>
+<h2 style="margin-top:10px">🛠️  &nbsp; Languages and Tools  </h2>
 
 &nbsp;
 
-<div align="center" class="column" style="width: 100%; height: 300px; margin-top:20px; margin-bottom:70px; border: none"> 
+<div align="center" class="column" style="width: 100%; height: 300px; margin-top:20px; margin-bottom:50px; border: none"> 
   <!-- <table align="left" style="margin-left: 50px; margin-top: 20px;  background-color: #f0f0f0; margin-bottom: 20px;border: none"> -->
   <table  style="align-self: center; margin-left: 50px; margin-top: 20px; border: none">
   <tr valign="top" style="border: none">
@@ -148,8 +148,6 @@
   </table>
 </div>
 
-
-&nbsp;
 <h1></h1>
 
 <!-- My resume -->
