@@ -1,5 +1,5 @@
 
-<div align="center" style="margin-bottom: 35px">
+<div align="center" style="margin-bottom: 25px">
 
 <center> 
 
@@ -39,6 +39,8 @@
 
 <!-- Languages and Tools -->
 <h2 style="margin-top:20px">🛠️  &nbsp; Languages and Tools  </h2>
+
+&nbsp;
 
 <div align="center" class="column" style="width: 100%; height: 300px; margin-top:20px; margin-bottom:70px; border: none"> 
   <!-- <table align="left" style="margin-left: 50px; margin-top: 20px;  background-color: #f0f0f0; margin-bottom: 20px;border: none"> -->
@@ -146,7 +148,7 @@
   </table>
 </div>
 
-&nbsp;
+
 &nbsp;
 <h1></h1>
 
@@ -158,10 +160,10 @@
 
 
 <!-- Portfolio -->
-### <img align="center" src="./assets/maletin.png" alt="linkedin" width="28"  /> [ &nbsp; Portfolio ](https://edithlosada.github.io/)
+## <img align="center" src="./assets/maletin.png" alt="linkedin" width="28"  /> [ &nbsp; Portfolio ](https://edithlosada.github.io/)
 
-  - #### Integra (Management system designed to be used in health sector)
-  - #### Videogames (API to search and filter videogames)
+  - Integra (Management system designed to be used in health sector)
+  - Videogames (API to search and filter videogames)
 
 
 &nbsp;
