@@ -31,8 +31,17 @@
 </div>
 
 <!-- My resume -->
-<div style='margin-bottom: 50px; display: inline;'><a href="https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80" target="blank" style="text-decoration: none"><img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" /><h3 style='display: inline;font-size: 20px'>My Resume</h3></a>
-</div>
+<!-- <div style='margin-bottom: 50px; display: inline;'><a href="https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80" target="blank" style="text-decoration: none"><img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" /><h3 style='display: inline;font-size: 20px'>My Resume</h3></a>
+</div> -->
+
+
+<h1></h1>
+
+## <img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" />[ &nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
+
+&nbsp;  
+
+&nbsp;
 
 <!-- Languages and Tools -->
 <h2 style="margin-top:20px">🛠️  &nbsp; Languages and Tools  </h2>
