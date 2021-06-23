@@ -1,20 +1,17 @@
+<div align="center" style="margin-bottom: 35px">
 
-  <h1 align="center">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h1>
+  <h3 align="center" style="text-decoration: none; font-size: 30px">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h3>
 
-  <div align="left">
-    <!-- <h3> EDITH LOSADA </h3> -->
+  <h2 align="center" style="text-decoration: none">Fullstack Development | Physics Research </h1>
 
-   ## Fullstack Development | Physics Research
-
-    - 🌱 I’m looking to collaborate on any project aimed to improve life quality and communities problem solving.
-
+  <div align="center" style="width: 500px; margin-top: 35px">
+    🌱 <br/>
+    I'm passionate about technology and innovation, always looking to challenge myself and learn new things. I enjoy collaborating with others to find new ways to improve life quality and solve community problems.
   </div>
 
-
-
-<div align="left" vertical-align:"middle" style="margin-top: 50px; margin-bottom: 50px;">
-
-  <h3> <img align="center" src="./assets/msg.png" alt="connect" width="28"
+  <!-- Connect -->
+  <div align="center" vertical-align:"middle" style="margin-top: 50px; margin-bottom: 20px;">
+ <h3> <img align="center" src="./assets/msg.png" alt="connect" width="28"
     style="margin-right: 10px; margin-right: 3px" /> &nbsp; Connect with me: 
  <a href="https://linkedin.com/in/www.linkedin.com/in/edithlosada" target="blank">
   <img align="center" src="./assets/linkedin.png" alt="linkedin" width="28"
@@ -29,20 +26,19 @@
     style="margin-right: 3px" />
   </a></h3>
 </div>
+</div>
 
 
-<!-- <div align="left" style="margin-bottom: 35px;">
-   <a href="https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80" target="blank" style="text-decoration: none">
-    <h2><img align="center" src="./assets/resume.png" alt="bash" style="margin-right: 10px" width="25" />My resume
-</h2>
-  </a>
-</div> -->
+<hr style="border-top: 0.5px solid #c8c8c8;border-bottom: 0"/>
 
-### [![resume](./assets/resume.png "myresume") &nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)   
+<!-- My resume -->
+<div style='margin-bottom: 50px'><a href="https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80" target="blank" style="text-decoration: none"><img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" width="25" /><h3 style='display: inline;font-size: 20px'>My Resume</h3></a>
+</div>
 
+<!-- Languages and Tools -->
 <h2 style="margin-top:20px">🛠️  &nbsp; Languages and Tools  </h2>
 
-<div align="center" class="column" style="width: 100%; height: 300px; margin-top:20px; margin-bottom:20px; border: none"> 
+<div align="center" class="column" style="width: 100%; height: 300px; margin-top:20px; margin-bottom:70px; border: none"> 
   <!-- <table align="left" style="margin-left: 50px; margin-top: 20px;  background-color: #f0f0f0; margin-bottom: 20px;border: none"> -->
   <table  style="align-self: center; margin-left: 50px; margin-top: 20px; border: none">
   <tr valign="top" style="border: none">
@@ -148,25 +144,27 @@
   </table>
 </div>
 
+<!-- Portfolio -->
 <div style="margin-top: 50px; margin-bottom: 35px;">
 
-##  💼 Portfolio
+  <div><a href="https://edithlosada.github.io/" target="blank" style="text-decoration: none"><h3 style='display: inline;font-size: 20px'>💼 Portfolio</h3></a>
+  </div>
 
-- ### Integra (Management system designed to be used in health sector)
-- ### Videogames (API to search and filter videogames)
+  - ### Integra (Management system designed to be used in health sector)
+  - ### Videogames (API to search and filter videogames)
 </div>
 
-<h2 style="margin-top: 50px; margin-bottom: 35px;">📈 Stats</h1>
+<h2 style="margin-top: 50px; margin-bottom: 35px;">📈 Stats</h2>
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edithlosada&show_icons=true&locale=en" alt="edithlosada" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edithlosada&show_icons=true&locale=en" alt="edithlosada" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edithlosada&" alt="edithlosada" /></p> -->
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edithlosada&" alt="edithlosada" /></p> -->
 </div>
 
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=edithlosada.edithlosada" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edithlosada.edithlosada" alt="visitors">
 </div>
 
- <h1 align="center"></h1>
+<h1 align="center"></h1>
