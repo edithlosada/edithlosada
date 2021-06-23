@@ -3,7 +3,7 @@
 
 <center> 
 
-  ## <img src="./assets/tulip.png" height="40"  />&nbsp; Hi , I'm Edith. &nbsp; <img src="./assets/female-technologist.png" width="50"  /> 
+  ## <img src="./assets/tulip.png" height="40"  />&nbsp; &nbsp; Hi , I'm Edith! &nbsp; &nbsp;<img src="./assets/female-technologist.png" width="50"  /> 
 
   <div align="center" style="width: 500px; margin-top: 35px">
   
@@ -15,7 +15,7 @@
   <div align="center" vertical-align:"middle" style="margin-top: 50px; margin-bottom: 20px;">
   <h3> <img align="center" src="./assets/msg.png" alt="connect" width="28"
     style="margin-right: 10px; margin-right: 3px" /> &nbsp; Connect with me: 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/edithlosada" target="blank">
+  <a href="https://www.linkedin.com/in/edithlosada" target="blank">
     <img align="center" src="./assets/linkedin.png" alt="linkedin" width="28"
     style="margin-left: 10px" />
     </a>
@@ -146,17 +146,18 @@
   </table>
 </div>
 
+&nbsp;
+&nbsp;
 
 <!-- My resume -->
-### <img align="center" src="./assets/resume.png" alt="resume" style="margin-right: 10px" height="25" />[ &nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
+### <img align="center" src="./assets/resume.png" alt="resume" height="25" />[&nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
 
-&nbsp;  
 
 <!-- Portfolio -->
-### 💼 [ &nbsp; Portfolio ](https://edithlosada.github.io/)
+### <img align="center" src="./assets/maletin.png" alt="linkedin" width="28"  /> [ &nbsp; Portfolio ](https://edithlosada.github.io/)
 
-  - ### Integra (Management system designed to be used in health sector)
-  - ### Videogames (API to search and filter videogames)
+  - #### Integra (Management system designed to be used in health sector)
+  - #### Videogames (API to search and filter videogames)
 
 
 &nbsp;
