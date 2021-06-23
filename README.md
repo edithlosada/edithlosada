@@ -1,5 +1,5 @@
 
-<h3 align="center" style="text-decoration: none; font-size: 30px">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h3>
+<h3 align="center" style="text-decoration: none; font-size: 40px">🌷️ Hi , I'm Edith. <img src="./assets/female-technologist.png" width="50"  /> </h3>
 
 <div align="center" style="margin-bottom: 35px">
 
