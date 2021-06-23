@@ -148,9 +148,13 @@
 
 &nbsp;
 &nbsp;
+<h1></h1>
 
 <!-- My resume -->
 ### <img align="center" src="./assets/resume.png" alt="resume" height="25" />[&nbsp; My Resume ](https://firebasestorage.googleapis.com/v0/b/myinfo-d12e3.appspot.com/o/Resume%2FEdithLorenaLosada.pdf?alt=media&token=ad5d9a7c-7b44-4d30-9352-1304d02f9d80)
+
+
+&nbsp;
 
 
 <!-- Portfolio -->
