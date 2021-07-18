@@ -158,10 +158,10 @@
 
 
 <!-- Portfolio -->
-## <img align="center" src="./assets/maletin.png" alt="linkedin" width="28"  /> [ &nbsp; Portfolio ](https://edithlosada.github.io/)
+## <img align="center" src="./assets/maletin.png" alt="linkedin" width="28" style="margin-bottom: 10px" /> [ &nbsp; Portfolio ](https://edithlosada.github.io/)
 
   - Integra (Management system designed to be used in health sector)
-  - Videogames (API to search and filter videogames)
+  - Videogames (API to search and filter videogames) **[Try it now!](https://videogames-xi.vercel.app/)**
 
 
 &nbsp;
